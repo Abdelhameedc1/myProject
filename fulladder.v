@@ -1,3 +1,4 @@
+//
 module fulladder(a,b,cin,s,cout,clk);
 input a,b,cin,clk;
 output s,cout;
